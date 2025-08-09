@@ -50,7 +50,7 @@ public class ClientController {
 
 	{
 
-		return "Deploy Spring Boot using Jenkins";
+		return "Lab5 is done";
 
 }
 }
