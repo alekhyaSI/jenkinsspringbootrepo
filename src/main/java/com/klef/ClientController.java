@@ -44,4 +44,13 @@ public class ClientController {
 		return "Deploy Spring Boot using Jenkins";
 
 }
+	@GetMapping("/lab5")
+
+	public String lab5()
+
+	{
+
+		return "Deploy Spring Boot using Jenkins";
+
+}
 }
